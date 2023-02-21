@@ -2,9 +2,10 @@
 
 output
 
-# https://merntodolist.netlify.app/
+# https://merntodobyaft46.netlify.app/
 
 ![alt text](merntodo1.JPG)
+![alt text](merntodo2.JPG)
 
 
 # Getting Started with Create React App
